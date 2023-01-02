@@ -1,0 +1,42 @@
+---
+import { Icon } from "astro-icon";
+---
+
+<a
+  class="btn"
+  href="https://juanitovenenoestudio.azurewebsites.net/"
+  target="_blank"
+  rel="noopener noreferrer"
+  >Visita el Sitio Web<span class="icon"
+    ><Icon name="ic:round-north-east" width="18px" height="18px" />
+  </span>
+</a>
+
+<style>
+  .btn {
+    margin-bottom: 1rem;
+    display: inline-flex;
+    align-items: center;
+    padding: 0.5rem 0.75rem;
+    background-color: hsl(0, 0%, 98%);
+    color: hsl(0, 0%, 5%);
+    border-radius: 0.5rem;
+    text-decoration: none;
+    font-size: var(--step--2);
+  }
+
+  .btn:hover {
+    background-color: hsl(0, 0%, 95%);
+  }
+
+  .btn:hover .icon {
+    transform: translate(0.15rem, -0.15rem);
+  }
+
+  .icon {
+    display: inline-block;
+    margin: 0.25rem 0 0 0.25rem;
+    vertical-align: middle;
+    transition: transform 0.2s ease;
+  }
+</style>

@@ -1,0 +1,100 @@
+---
+import Layout from "./Page.astro";
+import Container from "../components/Container.astro";
+import { formatDate, slugify } from "../utils/helpers";
+
+const { frontmatter } = Astro.props;
+
+const seo = {
+  title: frontmatter.title,
+  description: frontmatter.description,
+  image: frontmatter.image
+};
+---
+
+<Layout seo={seo}>
+  <Container>
+    <article class="post-content__article">
+      <div class="post-content__top fade-in">
+        {
+          frontmatter.category && (
+            <p class="post-content__category">
+              <a href={`/blog/category/${slugify(frontmatter.category)}`}>
+                {frontmatter.category}
+              </a>
+            </p>
+          )
+        }
+        <h1 class="post-content__title">{frontmatter.title}</h1>
+        <p class="post-content__date">
+          <time>{formatDate(frontmatter.publishedAt)}</time>
+        </p>
+        <!-- Hopefully we'll be able to use Astro's image integration for this soon -->
+        {
+          frontmatter.image && (
+            <picture>
+              <source srcset={`${frontmatter.image}.webp`} type="image/webp" />
+              <img
+                width="1200"
+                height="630"
+                class="post-content__img"
+                loading="eager"
+                src={`${frontmatter.image}.png`}
+                alt={frontmatter.alt}
+              />
+            </picture>
+          )
+        }
+      </div>
+      <div class="post-content__content flow fade-in">
+        <slot />
+      </div>
+    </article>
+  </Container>
+</Layout>
+
+<style>
+  .post-content__top {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color: #d3ebcd;
+  }
+  .post-content__category {
+    padding: 0.5rem 1rem;
+    font-size: var(--step--1);
+    background-color: var(--theme-surface-1);
+    border-radius: 2rem;
+  }
+  .post-content__category a {
+    text-decoration: none;
+  }
+  .post-content__category a:hover {
+    opacity: 0.8;
+  }
+  .post-content__article {
+    padding: 5vh 0;
+  }
+  .post-content__title {
+    margin: 1rem auto;
+    font-size: var(--step-5);
+  }
+  .post-content__date {
+    margin: 0 auto;
+    font-size: var(--step--1);
+    color: var(--color-gray);
+    font-style: italic;
+  }
+  .post-content__img {
+    margin: 3rem 0 2rem 0;
+    max-width: 100%;
+    height: auto;
+    border-radius: 2rem;
+  }
+  .post-content__content :global(img) {
+    display: block;
+    margin: 2rem auto;
+    max-width: 100%;
+  }
+</style>

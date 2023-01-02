@@ -1,0 +1,35 @@
+---
+import Layout from "../layouts/Page.astro";
+import Container from "../components/Container.astro";
+import BlogPostsList from "../components/BlogPostsList.astro";
+
+const posts = (await Astro.glob("./blog/*.{md,mdx}")).sort(
+  (a, b) =>
+    new Date(b.frontmatter.publishedAt).valueOf() -
+    new Date(a.frontmatter.publishedAt).valueOf()
+);
+
+const seo = {
+  title: "Venenews | Juanito Veneno Estudio",
+  description: "Aún La Mejor Estrategia Es Hacerlo"
+};
+---
+
+<style>
+  .home-hero-text__container {
+    color: #a5c9ca;
+    padding: 5vh 0;
+  }
+  h1 {
+    text-align: center;
+  }
+</style>
+
+<Layout seo={seo}>
+  <Container>
+    <div class="home-hero-text__container">
+      <h1 class="fade-in">VeneNews</h1>
+    </div>
+    <BlogPostsList posts={posts} />
+  </Container>
+</Layout>

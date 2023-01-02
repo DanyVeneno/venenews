@@ -1,0 +1,98 @@
+---
+import { settings } from "../data/settings";
+import Container from "./Container.astro";
+import SocialList from "./SocialList.astro";
+import LittleSticksPlug from "./LittleSticksPlug.astro";
+---
+
+<footer>
+  <Container>
+    <div class="footer-links__grid">
+      <ul>
+        <li><strong>@juanitovenenoestudio</strong></li>
+        <li>Nosotros</li>
+        <li>Venenews</li>
+      </ul>
+      <ul>
+        <li><strong>Productos</strong></li>
+        <li>Tienda</li>
+        <li>Mercancia</li>
+      </ul>
+      <ul>
+        <li><strong>Soporte</strong></li>
+        <li>Discord</li>
+        <li>Contactanos</li>
+      </ul>
+      <ul>
+        <li><strong>Legal</strong></li>
+        <li>Aviso de Privacidad</li>
+        <li>Terminos y condiciones</li>
+      </ul>
+    </div>
+    <!-- You can delete this code or hide in the settings.ts file -->
+    {
+      settings.showLittleSticksPlug && (
+        <div>
+          <LittleSticksPlug />
+        </div>
+      )
+    }
+    <div class="footer-bottom__container">
+      <p>&copy; {new Date().getFullYear()} {settings.name}</p>
+      <SocialList />
+    </div>
+  </Container>
+</footer>
+
+<style>
+  footer {
+    position: relative;
+    min-height: 200px;
+    background-color: var(--theme-footer-background);
+    color: var(--theme-on-footer-background);
+  }
+  .footer-links__grid {
+    color: #a5c9ca;
+    padding: 10vh 0;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+  }
+  .footer-links__grid ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .footer-links__grid ul li:first-of-type {
+    margin-bottom: 0.5rem;
+  }
+  .footer-links__grid ul li strong {
+    font-weight: 900;
+  }
+  .footer-bottom__container {
+    position: relative;
+    bottom: 0;
+    padding: 0 0 1rem 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: var(--step--2);
+  }
+
+  @media (max-width: 768px) {
+    .footer-links__grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  @media (max-width: 480px) {
+    .footer-links__grid {
+      grid-template-columns: 1fr;
+      gap: 2rem;
+    }
+    .footer-bottom__container {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 1rem;
+    }
+  }
+</style>
