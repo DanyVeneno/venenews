@@ -1,6 +1,6 @@
 ---
 layout: "../../layouts/Post.astro"
-title: ¿Qué es un Ecosistema Digital Comercial?
+title: ¿Qué es el Inbound Marketing?
 image: /images/freelance
 publishedAt: "2023-01-02"
 category: "Marketing Digital"
