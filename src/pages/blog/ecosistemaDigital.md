@@ -1,6 +1,6 @@
 ---
 layout: "../../layouts/Post.astro"
-title: ¿Què es el protocolo SSL?
+title: ¿Què es un Ecosistema Digital Comercial?
 image: /images/ecosistemadigital
 publishedAt: "2023-01-02"
 category: "Ecosistema Digital"
