@@ -1,6 +1,6 @@
 ---
 layout: "../../layouts/Post.astro"
-title: ¿Qué es el Inbound Marketing?
+title: ¿Qué es un Ecosistema Digital Comercial?
 image: /images/freelance
 publishedAt: "2023-01-02"
 category: "Marketing Digital"
@@ -15,6 +15,8 @@ El inbound marketing es un enfoque de marketing que se centra en atraer clientes
 El inbound marketing incluye técnicas como el marketing de contenidos, el SEO (optimización de motores de búsqueda), el marketing en redes sociales y el marketing de correo electrónico. Estas técnicas se utilizan para atraer a los clientes potenciales a la empresa a través de canales en línea, como el motor de búsqueda, las redes sociales y los sitios web. Una vez que los clientes potenciales han sido atraídos a la empresa a través del inbound marketing, se les convierte en clientes a través de técnicas de marketing de conversión, como formularios de contacto y llamadas a la acción.
 
 El inbound marketing se ha vuelto cada vez más popular en los últimos años debido a la creciente cantidad de contenido disponible en línea y a la mayor cantidad de personas que acceden a Internet a través de dispositivos móviles. Muchas empresas han descubierto que el inbound marketing es más efectivo que el marketing tradicional para llegar a los consumidores y obtener resultados a largo plazo.
+
+<br/>
 
 ```js
 class Human {
