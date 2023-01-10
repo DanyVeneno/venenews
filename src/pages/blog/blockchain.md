@@ -25,8 +25,11 @@ Blockchain es una tecnología de registro distribuido que almacena y registra in
 ### Ventajas del Blockchain:
 
 1. Seguridad mejorada: La criptografía avanzada utilizada en el blockchain hace muy difícil para los hackers acceder a los datos almacenados en la red, lo que hace del blockchain un sistema muy seguro para almacenar información sensible.
+
 2. Transparencia: El hecho de que todas las transacciones sean visibles para todos los usuarios hace imposible manipular o alterar los datos sin ser detectado por otros usuarios de la red.
+
 3. Descentralización: Al no haber un único punto central de control, el riesgo de fallas o ataques es mucho menor ya que no hay ninguna entidad central vulnerable a ataques externos o fallas internas.
+
 4. Bajo costo: Debido a su naturaleza descentralizada, el blockchain reduce considerablemente los costos asociados con procesamiento y transferencia de datos ya que no hay intermediarios involucrados en las transacciones realizadas en la red.
 
 ### Desventajas del Blockchain:
