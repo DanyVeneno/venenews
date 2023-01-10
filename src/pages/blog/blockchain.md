@@ -6,7 +6,7 @@ publishedAt: "2023-01-10"
 category: "Tecnología"
 ---
 
-## Horizonte de la disrupciòn tecnologìca
+## Blockchain
 
 Blockchain es una tecnología de registro distribuido que almacena y registra información de forma segura, transparente y permanente. Está compuesta por bloques de datos interconectados entre sí, que contienen información sobre transacciones realizadas. Esta tecnología se ha convertido en una herramienta clave para el desarrollo de aplicaciones descentralizadas, como criptomonedas, contratos inteligentes y plataformas de intercambio.
 
