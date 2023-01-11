@@ -1,9 +1,9 @@
 ---
-layout: '../../layouts/Post.astro'
+layout: "../../layouts/Post.astro"
 title: ¿Què es el transhumanismo?
 image: /images/transhumanismo
-publishedAt: '2023-01-08'
-category: 'Tecnología'
+publishedAt: "2023-01-08"
+category: "Tecnología"
 ---
 
 ## El Transhumanismo
@@ -54,12 +54,12 @@ class Human {
   }
 }
 const me = new Human(
-  'Daniel',
-  'Vallejo',
-  '44 Años',
-  'Mexicana',
-  'Node JS, Javascript',
-  'desde Mexico'
+  "Daniel",
+  "Vallejo",
+  "44 Años",
+  "Mexicana",
+  "Node JS, Javascript",
+  "desde Mexico"
 );
 console.log(me.getInfo());
 ```
@@ -74,4 +74,4 @@ console.log(me.getInfo());
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8UhdMAKJX56O2PY8kzBIlw?style=social)
 
-[**_Visita nuestro sitio web_**](https://juanitovenenoestudio.azurewebsites.net/)
+[**_Visita nuestro sitio web_**](https://juanitovenenoestudio.netlify.app/)
