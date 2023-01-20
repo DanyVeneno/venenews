@@ -3,7 +3,7 @@ layout: "../../layouts/Post.astro"
 title: El Impacto De La Incertidumbre
 image: /images/impacto
 publishedAt: "2023-01-13"
-category: "New Brave World"
+category: "Brave New World"
 ---
 
 ## El Impacto
