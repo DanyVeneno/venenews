@@ -3,7 +3,7 @@ layout: "../../layouts/Post.astro"
 title: La Disrupción en que habitamos
 image: /images/disruptio
 publishedAt: "2023-01-20"
-category: "New Brave World"
+category: "Brave New World"
 ---
 
 ## Incertidumbre, negación, y el dilema de la transformación
