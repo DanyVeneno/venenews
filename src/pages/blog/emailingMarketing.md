@@ -22,7 +22,7 @@ En 1792, el Congreso estableció la Oficina Postal de los Estados Unidos (USPS) 
 
 <div>
 <p style = 'text-align:center;'>
-<iframe width="1280" height="791" src="https://www.youtube.com/embed/58jyc98dvYM" title="Del cartero al E-Mail" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="690" height="350" src="https://www.youtube.com/embed/58jyc98dvYM" title="Del cartero al E-Mail" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </p>
 </div>
