@@ -1,7 +1,7 @@
 ---
 layout: "../../layouts/Post.astro"
 title: La Disrupción en que habitamos Pt2.
-image: /images/disruptio2
+image: /images/disrupt2
 publishedAt: "2023-01-23"
 category: "Brave New World"
 ---
