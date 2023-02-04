@@ -1,6 +1,6 @@
 ---
 layout: "../../layouts/Post.astro"
-title: ¿Qué es el SEO Y EL SEM?
+title: ¿Qué es el SEO Y el SEM?
 image: /images/seoysem
 publishedAt: "2023-02-04"
 category: "Marketing"
