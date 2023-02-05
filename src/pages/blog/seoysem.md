@@ -70,4 +70,4 @@ console.log(me.getInfo());
     href="https://wa.me/5610731990?text=Hola%20me%20interesan%20tus%20servicios%20de%20desarrollo%20web"
     id="llamada"
     target="_blank"
-      >Dejanos tu comentario →</a>
+      ><h3>Dejanos tu comentario →</h3></a>
