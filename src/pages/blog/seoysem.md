@@ -1,6 +1,6 @@
 ---
 layout: "../../layouts/Post.astro"
-title: ¿Qué es el SEO Y el SEM?
+title: ¿Qué es el SEO y el SEM?
 image: /images/seoysem
 publishedAt: "2023-02-04"
 category: "Marketing"
@@ -70,4 +70,4 @@ console.log(me.getInfo());
     href="https://wa.me/5610731990?text=Hola%20me%20interesan%20tus%20servicios%20de%20desarrollo%20web"
     id="llamada"
     target="_blank"
-      ><h3>Dejanos tu comentario →</h3></a>
+      ><h4>Dejanos tu comentario →</h4></a>
