@@ -41,6 +41,7 @@ class Human {
     this.lastName = lastName;
     this.age = age;
     this.nationality = nationality;
+    this.stacks = stacks;
     this.greeting = greeting;
   }
   getInfo() {
