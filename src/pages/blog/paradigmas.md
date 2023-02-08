@@ -49,7 +49,7 @@ class Human {
     ${this.lastName} y tiene${this.age}
     de edad, su nacionalidad es ${this.nationality}
     y esta aprendiendo a programar en 
-    ${this.stacks}y te manda saludos ${this.greeting}`;
+    ${this.stacks} y te manda saludos ${this.greeting}`;
   }
 }
 const me = new Human(
