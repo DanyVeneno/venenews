@@ -1,33 +1,37 @@
 ---
 import BaseHead from "../components/BaseHead.astro";
-import type { Props as BaseHeadProps } from '../components/BaseHead.astro';
+import type { Props as BaseHeadProps } from "../components/BaseHead.astro";
 import CreateCopyCodeButtons from "../components/CodeButtons/CreateCopyCodeButtons.astro";
 // import FadeIn from "../components/FadeIn.astro";
 import ThemeProvider from "../components/ThemeToggleButton/ThemeProvider.astro";
 
 export interface Props {
-	seo?: BaseHeadProps;
+  seo?: BaseHeadProps;
 }
 
 const { seo } = Astro.props;
 ---
 
-<html lang="en">
+<html lang='en'>
   <head>
+    <meta
+      name='google-site-verification'
+      content='7EU3KOWUlclilZgjdBL-mcAj6N06NflDL6-1InEqy44'
+    />
     <BaseHead {...seo} />
-    <ThemeProvider/>
+    <ThemeProvider />
     <!-- This is and experimental global fade in animation that is being worked on, enable at your own risk of some jank -->
     <!-- <FadeIn/> -->
     <CreateCopyCodeButtons />
     <script>
-      import '../components/CodeButtons/copy-code-button'
+      import "../components/CodeButtons/copy-code-button";
     </script>
   </head>
   <body>
-    <slot name="header" />
-    <main class="flow">
+    <slot name='header' />
+    <main class='flow'>
       <slot />
     </main>
-    <slot name="footer" />
+    <slot name='footer' />
   </body>
 </html>
