@@ -1,18 +1,17 @@
-import rss from "@astrojs/rss";
-
-export function get(context) {
+export async function get(context) {
+  const blog = await getCollection("blog");
   return rss({
-    // `<title>` campo en el xml generado
-    title: "Venenews",
-    // `<description>` campo en el xml generado
-    description: "Crear Para Generar",
-    // Usa el "site" desde el contexto del endpoint
-    // https://docs.astro.build/en/reference/api-reference/#contextsite
+    title: "Buzz’s Blog",
+    description: "A humble Astronaut’s guide to the stars",
     site: context.site,
-    // Array de `<item>`s en el xml generado
-    // Consulta la sección "Generando `items`" para ejemplos utilizando colecciones de contenido y glob imports
-    items: [],
-    // (opcional) inyecta xml personalizado
-    customData: `<language>en-us</language>`
+    items: blog.map((post) => ({
+      title: post.data.title,
+      pubDate: post.data.pubDate,
+      description: post.data.description,
+      customData: post.data.customData,
+      // Calcula el link RSS desde el `slug` del post
+      // Este ejemplo asume que todos los posts son renderizados como rutas `/blog/[slug]`
+      link: `/blog/${post.slug}/`
+    }))
   });
 }
