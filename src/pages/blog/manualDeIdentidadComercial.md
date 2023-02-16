@@ -3,7 +3,7 @@ layout: "../../layouts/Post.astro"
 title: ¿Para que sirve un Manual de Identidad Comercial?
 image: /images/manual
 publishedAt: "2023-02-15"
-category: "Diseño"
+category: "Design"
 ---
 
 ## Un manual de identidad es:
@@ -34,6 +34,7 @@ La implementación de un manual de identidad comercial es fundamental para garan
 1. Imágenes: Esta sección describe las imágenes que deben usarse para representar la marca, así como sus tamaños y formatos apropiados para su reproducción en impresión o pantalla digital.
 
 1. Uso incorrecto: Esta sección explica qué no hacer con el logotipo y otros elementos de identidad visual de la empresa, así como cualquier otra información relacionada con el uso incorrecto de los mismos.
+   <br/>
    <br/>
 
 ```js
