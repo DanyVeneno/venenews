@@ -10,6 +10,7 @@ category: "Diseño"
 
 Un manual de identidad comercial es un documento que contiene los elementos de diseño y estilo que definen la imagen de una marca. Estos elementos incluyen el logotipo, los colores, el tipo de letra, la apariencia general y otros elementos visuales. El manual también contiene instrucciones sobre cómo usar estos elementos para crear materiales promocionales consistentes con la imagen de la marca. El objetivo del manual es ayudar a los diseñadores a mantener una imagen coherente para la marca en todos sus materiales promocionales.
 <br>
+<br>
 La implementación de un manual de identidad comercial es fundamental para garantizar que todos los materiales publicitarios y promocionales sean coherentes con el mensaje y la imagen corporativa deseada. Esto ayuda a construir una marca fuerte y reconocible, lo que a su vez contribuye al éxito comercial del negocio. Además, un manual de identidad comercial también puede ayudar a reducir los costos al estandarizar los procesos y materiales gráficos.
 
 <br>
