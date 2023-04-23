@@ -36,19 +36,19 @@ Innovación y progreso: La imprenta fomentó la innovación y el progreso en tod
 
 Eventos culturales negativos:
 
-Censura: La imprenta permitió la difusión de ideas y opiniones, lo que a menudo fue considerado una amenaza por los poderes establecidos. Como resultado, se implementaron leyes de censura y se prohibieron ciertos libros y materiales impresos.
+_*Censura*_: La imprenta permitió la difusión de ideas y opiniones, lo que a menudo fue considerado una amenaza por los poderes establecidos. Como resultado, se implementaron leyes de censura y se prohibieron ciertos libros y materiales impresos.
 
-Discriminación: Aunque la imprenta facilitó la difusión de la cultura, también llevó a la discriminación y la exclusión de ciertas comunidades, que no tenían acceso a la educación y la producción de libros.
+_*Discriminación*_: Aunque la imprenta facilitó la difusión de la cultura, también llevó a la discriminación y la exclusión de ciertas comunidades, que no tenían acceso a la educación y la producción de libros.
 
-Uniformidad cultural: La imprenta fomentó la producción y distribución de libros estandarizados y uniformes, lo que a menudo llevó a una homogeneización de la cultura y la pérdida de la diversidad cultural.
+_*Uniformidad cultural*_: La imprenta fomentó la producción y distribución de libros estandarizados y uniformes, lo que a menudo llevó a una homogeneización de la cultura y la pérdida de la diversidad cultural.
 
 En la época en que se inventó la imprenta, hubo algunas organizaciones y grupos que se opusieron a su uso y difusión. A continuación, se presentan algunos ejemplos de estas organizaciones:
 
-1. La Iglesia: En la época en que se inventó la imprenta, la Iglesia era una de las instituciones más poderosas de Europa y se opuso al uso de la imprenta porque temía que las nuevas ideas pudieran cuestionar su autoridad y sus enseñanzas. En algunos casos, la Iglesia incluso prohibió la impresión y distribución de ciertos libros.
+1. _*La Iglesia*_: En la época en que se inventó la imprenta, la Iglesia era una de las instituciones más poderosas de Europa y se opuso al uso de la imprenta porque temía que las nuevas ideas pudieran cuestionar su autoridad y sus enseñanzas. En algunos casos, la Iglesia incluso prohibió la impresión y distribución de ciertos libros.
 
-2. Los artesanos: Algunos artesanos, como los copistas y los iluminadores de manuscritos, se opusieron a la imprenta porque temían que su trabajo fuera reemplazado por la producción masiva de libros con la imprenta. Esto llevó a algunos enfrentamientos y tensiones entre los artesanos y los impresores.
+2. _\_Los artesanos_\_: Algunos artesanos, como los copistas y los iluminadores de manuscritos, se opusieron a la imprenta porque temían que su trabajo fuera reemplazado por la producción masiva de libros con la imprenta. Esto llevó a algunos enfrentamientos y tensiones entre los artesanos y los impresores.
 
-3. Los gremios de libreros: Algunos gremios de libreros también se opusieron a la imprenta porque temían que la competencia de los impresores los dejara sin trabajo o los obligara a reducir sus precios.
+3. _*Los gremios de libreros*_: Algunos gremios de libreros también se opusieron a la imprenta porque temían que la competencia de los impresores los dejara sin trabajo o los obligara a reducir sus precios.
 
 Es importante señalar que aunque hubo oposición a la imprenta en algunos sectores, su invención tuvo un impacto fundamental en la difusión del conocimiento y la cultura en toda Europa y en el mundo.
 
@@ -64,23 +64,24 @@ Durante la Edad Media y el Renacimiento, la Iglesia Católica Romana mantuvo una
 
 Algunos de los libros que aparecieron en el Index Librorum Prohibitorum incluyen:
 
-"El Príncipe" de Maquiavelo
-"La Decadencia y Caída del Imperio Romano" de Edward Gibbon
-"El origen de las especies" de Charles Darwin
-"Los Diálogos" de Galileo Galilei
-"La Vida de Jesús" de David Strauss
-"El Contrato Social" de Jean-Jacques Rousseau
-"La Divina Comedia" de Dante Alighieri (durante un tiempo)
+- "El Príncipe" de Maquiavelo
+- "La Decadencia y Caída del Imperio Romano" de Edward Gibbon
+- "El origen de las especies" de Charles Darwin
+- "Los Diálogos" de Galileo Galilei
+- "La Vida de Jesús" de David Strauss
+- "El Contrato Social" de Jean-Jacques Rousseau
+- "La Divina Comedia" de Dante Alighieri (durante un tiempo)
+
 Las obras de Martin Lutero y otros reformadores protestantes
 Estos libros fueron prohibidos por varias razones, como la promoción de ideas contrarias a la doctrina católica, la herejía, la blasfemia o la inmoralidad. La lista del Index fue abolida oficialmente en 1966 por el Papa Pablo VI.
 
 Cuando la máquina de escribir fue inventada, no hubo una oposición significativa por parte de organizaciones o grupos que se opusieran a su uso o difusión. Sin embargo, algunas personas individuales expresaron preocupaciones o críticas sobre la máquina de escribir. A continuación, se presentan algunos ejemplos:
 
-Escritores y artistas: Algunos escritores y artistas se opusieron a la máquina de escribir porque creían que la escritura a máquina era demasiado mecánica y carecía de la belleza y la expresión artística de la escritura a mano.
+_*Escritores y artistas*_: Algunos escritores y artistas se opusieron a la máquina de escribir porque creían que la escritura a máquina era demasiado mecánica y carecía de la belleza y la expresión artística de la escritura a mano.
 
 Secretarias y amanuenses: En la década de 1890, cuando la máquina de escribir comenzó a ser ampliamente utilizada en las oficinas, algunas secretarias y amanuenses se opusieron a la máquina de escribir porque temían que su uso pudiera llevar a la automatización y la eliminación de sus trabajos.
 
-Personas mayores: Algunas personas mayores se opusieron a la máquina de escribir porque creían que la escritura a mano era una habilidad importante y que la escritura a máquina podría hacer que la gente perdiera esa habilidad.
+_*Personas mayores*_: Algunas personas mayores se opusieron a la máquina de escribir porque creían que la escritura a mano era una habilidad importante y que la escritura a máquina podría hacer que la gente perdiera esa habilidad.
 
 En general, la oposición a la máquina de escribir fue limitada y no tuvo un impacto significativo en su adopción y uso generalizado en la sociedad. La máquina de escribir tuvo un impacto significativo en la producción de documentos y la comunicación escrita, y sentó las bases para la posterior invención de la computadora y otros dispositivos electrónicos.
 
@@ -88,11 +89,11 @@ Cuando las calculadoras mecánicas y electrónicas fueron inventadas, no hubo un
 
 Sin embargo, algunas personas individuales expresaron preocupaciones o críticas sobre las calculadoras. Por ejemplo:
 
-Matemáticos puristas: Algunos matemáticos puristas se opusieron a las calculadoras porque creían que los estudiantes debían aprender a realizar cálculos complejos a mano, para comprender mejor los principios matemáticos subyacentes.
+_*Matemáticos puristas*_: Algunos matemáticos puristas se opusieron a las calculadoras porque creían que los estudiantes debían aprender a realizar cálculos complejos a mano, para comprender mejor los principios matemáticos subyacentes.
 
-Profesores de matemáticas: En la década de 1970, cuando las calculadoras comenzaron a ser ampliamente utilizadas en las escuelas, algunos profesores de matemáticas se opusieron a su uso porque temían que pudieran hacer que los estudiantes dependieran demasiado de las calculadoras y perdieran la habilidad de realizar cálculos a mano.
+_*Profesores de matemáticas*_: En la década de 1970, cuando las calculadoras comenzaron a ser ampliamente utilizadas en las escuelas, algunos profesores de matemáticas se opusieron a su uso porque temían que pudieran hacer que los estudiantes dependieran demasiado de las calculadoras y perdieran la habilidad de realizar cálculos a mano.
 
-Empleados de contabilidad: En algunas empresas, los empleados de contabilidad se opusieron a las calculadoras porque temían que su uso pudiera llevar a la automatización y la eliminación de sus trabajos.
+_*Empleados de contabilidad*_: En algunas empresas, los empleados de contabilidad se opusieron a las calculadoras porque temían que su uso pudiera llevar a la automatización y la eliminación de sus trabajos.
 
 A pesar de estas preocupaciones y críticas, las calculadoras continuaron siendo ampliamente utilizadas en la sociedad y en el mundo empresarial. En la actualidad, las calculadoras han evolucionado a dispositivos mucho más sofisticados y potentes, y son una herramienta esencial para la mayoría de las personas en muchos aspectos de la vida.
 
@@ -100,11 +101,11 @@ Cuando Internet se empezó a desarrollar y a popularizarse en la década de 1990
 
 Sin embargo, ha habido algunas preocupaciones y críticas sobre el uso de Internet en ciertos contextos. A continuación, se presentan algunos ejemplos de organizaciones o grupos que han expresado preocupaciones sobre Internet:
 
-Gobiernos autoritarios: En algunos países con gobiernos autoritarios, las autoridades han tratado de restringir o controlar el acceso a Internet, temiendo que pueda ser utilizado por los ciudadanos para organizar protestas o para acceder a información que el gobierno considera peligrosa o subversiva.
+_*Gobiernos autoritarios*_: En algunos países con gobiernos autoritarios, las autoridades han tratado de restringir o controlar el acceso a Internet, temiendo que pueda ser utilizado por los ciudadanos para organizar protestas o para acceder a información que el gobierno considera peligrosa o subversiva.
 
-Grupos conservadores: En algunos países y comunidades, los grupos conservadores han expresado preocupaciones sobre el acceso a contenidos inapropiados o inmorales en Internet, y han tratado de restringir el acceso a ciertos sitios web o servicios en línea.
+_*Grupos conservadores*_: En algunos países y comunidades, los grupos conservadores han expresado preocupaciones sobre el acceso a contenidos inapropiados o inmorales en Internet, y han tratado de restringir el acceso a ciertos sitios web o servicios en línea.
 
-Grupos de privacidad: Algunos grupos de privacidad y defensores de los derechos digitales han expresado preocupaciones sobre la recopilación de datos personales y la privacidad en línea, y han tratado de promover políticas y tecnologías que protejan la privacidad de los usuarios de Internet.
+_*Grupos de privacidad*_: Algunos grupos de privacidad y defensores de los derechos digitales han expresado preocupaciones sobre la recopilación de datos personales y la privacidad en línea, y han tratado de promover políticas y tecnologías que protejan la privacidad de los usuarios de Internet.
 
 En general, aunque ha habido algunas preocupaciones y críticas sobre Internet, su impacto positivo en la sociedad ha sido abrumadoramente grande. La mayoría de las personas en todo el mundo utilizan Internet a diario para realizar una amplia variedad de actividades, y ha sido una herramienta esencial para el avance del conocimiento, la educación, la ciencia, la tecnología.
 
