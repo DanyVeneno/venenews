@@ -1,12 +1,12 @@
 ---
 layout: "../../layouts/Post.astro"
-title: ¿Qué es una base de datos?
-image: /image/base-de-datos
+title: ¿Què es una base de datos?
+image: /images/base-de-datos
 publishedAt: "2023-05-17"
 category: "Ecosistema Digital"
 ---
 
-## Una base de datos es :
+## Una base de datos es
 
 Una colección organizada y estructurada de datos relacionados, almacenados electrónicamente en un sistema informático. Es un componente fundamental en la gestión de la información en empresas, organizaciones y aplicaciones informáticas en general. Proporciona un medio eficiente y seguro para almacenar, recuperar, gestionar y manipular grandes volúmenes de datos.
 
