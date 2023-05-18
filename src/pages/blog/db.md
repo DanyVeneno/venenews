@@ -30,6 +30,7 @@ Las bases de datos sirven para:
 <br>
 
 ![image](https://images.pexels.com/photos/3970328/pexels-photo-3970328.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
 <br>
 <br>
 
