@@ -1,7 +1,7 @@
 ---
 layout: "../../layouts/Post.astro"
 title: ¿Qué es una base de datos?
-image: /image/db
+image: /image/base-de-datos
 publishedAt: "2023-05-17"
 category: "Ecosistema Digital"
 ---
@@ -29,7 +29,7 @@ Las bases de datos sirven para:
 <br>
 <br>
 
-![image](https://c1.wallpaperflare.com/preview/453/738/383/ipad-online-tablet-internet.jpg)
+![image](https://images.pexels.com/photos/3970328/pexels-photo-3970328.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 <br>
 <br>
 
