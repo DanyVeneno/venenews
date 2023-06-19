@@ -95,7 +95,7 @@ console.log(me.getInfo());
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8UhdMAKJX56O2PY8kzBIlw?style=social)
 
-[**_Visita nuestro sitio web_**](https://juanitovenenoestudio.netlify.app/)
+[**_Visita nuestro sitio web_**](https://juanitovenenoestudio.up.railway.app/)
 
 <a
     href="https://wa.me/5610731990?text=Hola%20me%20interesan%20tus%20servicios%20de%20desarrollo%20web"
