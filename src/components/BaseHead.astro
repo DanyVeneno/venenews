@@ -18,71 +18,71 @@ const canonicalURL =
 const image = new URL(Astro.props.image || "./social.png", Astro.site);
 ---
 
-<meta charset="utf-8" />
+<meta charset='utf-8' />
 <meta
-  name="viewport"
-  content="width=device-width, initial-scale=1, viewport-fit=cover"
+  name='viewport'
+  content='width=device-width, initial-scale=1, viewport-fit=cover'
 />
 <!-- Favicon -->
-<link rel="icon" type="image/ico" href="/favicon.ico" />
+<link rel='icon' type='image/ico' href='/favicon.svg' />
 <!-- Primary Meta Tags -->
 <title>{title || settings.title}</title>
-<meta name="title" content={title || settings.title} />
+<meta name='title' content={title || settings.title} />
 
-<meta name="description" content={description || settings.description} />
-<meta name="generator" content={Astro.generator} />
+<meta name='description' content={description || settings.description} />
+<meta name='generator' content={Astro.generator} />
 <!-- settingsmap -->
-<link rel="sitemap" href="/sitemap.xml" />
+<link rel='sitemap' href='/sitemap.xml' />
 <!-- RSS -->
 <link
-  rel="alternate"
-  type="application/rss+xml"
+  rel='alternate'
+  type='application/rss+xml'
   title={`${settings.name} Blog`}
   href={`${settings.url}/feed/blog.xml`}
 />
 <!-- Canonical -->
-<link rel="canonical" href={canonicalURL} />
+<link rel='canonical' href={canonicalURL} />
 
 <!-- Open Graph / Facebook -->
-<meta property="og:type" content="website" />
-<meta property="og:url" content={canonicalURL} />
-<meta property="og:title" content={title} />
-<meta property="og:description" content={description} />
-<meta property="og:image" content={image} />
+<meta property='og:type' content='website' />
+<meta property='og:url' content={canonicalURL} />
+<meta property='og:title' content={title} />
+<meta property='og:description' content={description} />
+<meta property='og:image' content={image} />
 
 <!-- Twitter -->
-<meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:url" content={canonicalURL} />
-<meta property="twitter:title" content={title} />
-<meta property="twitter:description" content={description} />
-<meta property="twitter:image" content={image} />
+<meta property='twitter:card' content='summary_large_image' />
+<meta property='twitter:url' content={canonicalURL} />
+<meta property='twitter:title' content={title} />
+<meta property='twitter:description' content={description} />
+<meta property='twitter:image' content={image} />
 
 <!-- Google Fonts -->
-<link rel="preconnect" href="https://fonts.googleapis.com" />
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link rel='preconnect' href='https://fonts.googleapis.com' />
+<link rel='preconnect' href='https://fonts.gstatic.com' crossorigin />
 <link
-  rel="preload"
-  href="https://fonts.googleapis.com/icon?family=Material+Icons"
-  as="style"
-  onload="this.onload=null;this.rel='stylesheet'"
+  rel='preload'
+  href='https://fonts.googleapis.com/icon?family=Material+Icons'
+  as='style'
+  onload='this.onload=null;this.rel='stylesheet''
 />
 <noscript>
   <link
-    href="https://fonts.googleapis.com/icon?family=Material+Icons"
-    rel="stylesheet"
-    type="text/css"
+    href='https://fonts.googleapis.com/icon?family=Material+Icons'
+    rel='stylesheet'
+    type='text/css'
   />
 </noscript>
 <link
-  rel="preload"
-  href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap"
-  as="style"
-  onload="this.onload=null;this.rel='stylesheet'"
+  rel='preload'
+  href='https://fonts.googleapis.com/css2?family=Open+Sans&display=swap'
+  as='style'
+  onload='this.onload=null;this.rel='stylesheet''
 />
 <noscript>
   <link
-    href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap"
-    rel="stylesheet"
-    type="text/css"
+    href='https://fonts.googleapis.com/css2?family=Open+Sans&display=swap'
+    rel='stylesheet'
+    type='text/css'
   />
 </noscript>
