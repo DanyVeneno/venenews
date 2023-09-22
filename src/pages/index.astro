@@ -10,8 +10,8 @@ const posts = (await Astro.glob("./blog/*.{md,mdx}")).sort(
 );
 
 const seo = {
-  title: "Venenews | Juanito Veneno Estudio",
-  description: "Aún La Mejor Estrategia Es Hacerlo"
+  title: "Danny Veneno | Blog",
+  description: "Crear para generar"
 };
 ---
 
@@ -27,8 +27,8 @@ const seo = {
 
 <Layout seo={seo}>
   <Container>
-    <div class="home-hero-text__container">
-      <h1 class="fade-in">VeneNews</h1>
+    <div class='home-hero-text__container'>
+      <h1 class='fade-in'>Danny Veneno / Blog</h1>
     </div>
     <BlogPostsList posts={posts} />
   </Container>
