@@ -20,7 +20,7 @@ Motivación y Emoción: La psicología de la motivación y la emoción desempeñ
 
 ![image](https://res.cloudinary.com/dj0dedvu0/image/upload/v1695366844/uiux_syomvq.png)
 
-<iframe width="780" height="564" src="https://www.youtube.com/embed/nnUslqgSEO0" title="Psicologia detras de UI/UX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="780" height="464" src="https://www.youtube.com/embed/nnUslqgSEO0" title="Psicologia detras de UI/UX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 
