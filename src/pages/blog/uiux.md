@@ -2,7 +2,7 @@
 layout: "../../layouts/Post.astro"
 title: ¿La Psicología detrás de el UI/UX?
 image: /images/uiux
-publishedAt: "2023-09-22
+publishedAt: "2023-09-22"
 category: "UI/UX"
 ---
 
