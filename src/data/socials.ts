@@ -5,9 +5,9 @@ export const socials = [
     icon: "mdi:twitter"
   },
   {
-    name: "GitHub",
-    url: "https://github.com/DanyVeneno",
-    icon: "mdi:github"
+    name: "Podcasts",
+    url: "https://podcasters.spotify.com/pod/show/dannyveneno",
+    icon: "mdi:podcasts"
   },
   {
     name: "Instagram",
