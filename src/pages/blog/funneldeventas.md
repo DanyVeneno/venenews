@@ -2,8 +2,8 @@
 layout: "../../layouts/Post.astro"
 title: ¿Qué es un funnel de ventas?
 image: /images/funnel
-publishedAt: "2024-03-06"
-category: "Marketing"Digital
+publishedAt: "2024-3-6"
+category: "Marketing Digital"
 ---
 
 ## Un Funnel de Ventas
