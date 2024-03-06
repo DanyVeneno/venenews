@@ -6,7 +6,7 @@ publishedAt: "2024-03-06"
 category: "Marketing"Digital
 ---
 
-## La Inteligencia Artificial Generativa
+## Un Funnel de Ventas
 
 Un **funnel de ventas**, también conocido como **embudo de ventas o túnel de ventas**, es una representación visual del proceso que siguen tus clientes potenciales desde que son desconocidos hasta que se convierten en clientes finales. Se asemeja a un embudo porque es más ancho en la parte superior (donde hay más prospectos) y se va estrechando a medida que los prospectos avanzan en el proceso de compra y solo unos pocos se convierten en clientes.
 
